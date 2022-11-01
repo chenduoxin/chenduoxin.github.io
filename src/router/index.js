@@ -59,9 +59,9 @@ const routes = [
         component: () => import('../views/note/vue2.0.vue')
       },
       {
-        path: '/htmlcss',
-        name: 'htmlcss',
-        component: () => import('../views/note/htmlcss.vue')
+        path: '/uniApp',
+        name: 'uniApp',
+        component: () => import('../views/note/uniApp.vue')
       },
     ]
   },

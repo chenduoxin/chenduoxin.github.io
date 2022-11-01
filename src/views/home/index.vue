@@ -26,7 +26,7 @@
         <div class="box2">
           <h3>个人简介</h3>
           <p class="box2-p"> 2020毕业于广州科技职业学院，专业是电气自动化在校第三年在威凯实习，毕业后在游戏行业呆了将近两年，后因个人价值提升问题决定辞职自学前端，选择自学是想确定自己是否能坚持学习而非一时热血，
-            看着B站的视频学了小半年熟悉了html,css还有javascript,了解了node、axios、es6、github、git,也用vue跟element-ui做了些小项目。
+            看着B站的视频学了小半年熟悉了html,css还有javascript,了解了node、es6、git,也用vue跟element-ui做了些小项目,最近在学uniApp跟uniCloud想做个前后端一体的点餐小程序。
           </p>
           <div class="phone">
             <span>联系方式: </span>
@@ -101,9 +101,9 @@ export default {
           label: "Node.js",
         },
         {
-          name: "htmlcss",
+          name: "uniApp",
           url: "https://images.pexels.com/photos/1038916/pexels-photo-1038916.jpeg?auto=compress&cs=tinysrgb&w=600",
-          label: "css&html",
+          label: "uniApp",
         },
       ],
     };

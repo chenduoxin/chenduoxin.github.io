@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div class="ts">
+想到再写吧
     </div>
 </template>
 
@@ -11,5 +11,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+.ts {
+  width: 100%;
+  height: 80%;
+  background-color: #fff;
+}
 </style>

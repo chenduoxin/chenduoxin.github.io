@@ -1,15 +1,17 @@
 <template>
-    <div>
-
-    </div>
+  <div class="vueBox">
+想到再写吧
+  </div>
 </template>
 
 <script>
-    export default {
-        
-    }
+export default {};
 </script>
 
 <style lang="scss" scoped>
-
+.vueBox {
+  width: 100%;
+  height: 80%;
+  background-color: #fff;
+}
 </style>
