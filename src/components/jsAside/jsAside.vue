@@ -2,7 +2,7 @@
   <div>
     <el-menu>
       <el-submenu index="1">
-        <h3 slot="title">JavaScript基础</h3>
+        <h3 slot="title">JavaScript记录</h3>
         <el-menu-item
           v-for="(item, index) in jsEasy"
           :key="index"
@@ -28,8 +28,8 @@ export default {
   data() {
     return {
       jsEasy: [
-        { path: "/jsTv", name: "jsTv", label: "记录" },
-        { path: "/jsBook", name: "jsBook", label: "资料" },
+        { path: "/jsTv", name: "jsTv", label: "数据类型，拷贝，this，闭包" },
+        { path: "/jsBook", name: "jsBook", label: "原型链,继承" },
         { path: "/jsStudy", name: "jsStudy", label: "菜鸟教程" },
       ],
     };
